@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/lakshya1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lakshya1509" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshyabhardwaj1509/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshya-bhardwaj-1a36b4252/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lakshyabhardwaj1509/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshya-bhardwaj-1a36b4252/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25150587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25150587" height="30" width="40" /></a>
 <a href="https://instagram.com/lakshaybhardwaj150903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshaybhardwaj150903" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lakshya1509" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lakshya1509" height="30" width="40" /></a>
